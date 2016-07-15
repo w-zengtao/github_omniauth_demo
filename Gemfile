@@ -31,7 +31,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem 'devise'
-gem 'omniauth-github'
+# gem 'omniauth-github'
+gem 'omniauth-unitive'
 
 group :development, :test do
   gem 'pry'
